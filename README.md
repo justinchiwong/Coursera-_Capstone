@@ -3,5 +3,6 @@ This project aims to explore ideas and problems that can be solved using locatio
 
 Unfortunately, Github does not allow folium maps to render. 
 The following images from the notebook have been uploaded: 
+
 -map_sf 
 -map_clusters
